@@ -1,1 +1,1 @@
-From k8s.gcr.io/storage-provisioner:v1.8.1
+From gcr.io/k8s-minikube/storage-provisioner:v1.8.1
